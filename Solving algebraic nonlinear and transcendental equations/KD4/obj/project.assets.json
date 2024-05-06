@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD4\\KD4\\KD4.csproj",
+      "projectUniqueName": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Solving algebraic nonlinear and transcendental equations\\KD4\\KD4.csproj",
       "projectName": "KD4",
-      "projectPath": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD4\\KD4\\KD4.csproj",
+      "projectPath": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Solving algebraic nonlinear and transcendental equations\\KD4\\KD4.csproj",
       "packagesPath": "C:\\Users\\pasta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD4\\KD4\\obj\\",
+      "outputPath": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Solving algebraic nonlinear and transcendental equations\\KD4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

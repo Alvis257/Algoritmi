@@ -13,7 +13,7 @@ namespace KD4
             return 2 * x - Math.Pow(Math.E, -x);
         }
 
-        public void SecantMethod(double x0, double x1, double tolerance)
+        public void HorduMethod(double x0, double x1, double tolerance)
         {
             int iterations = 0;
             double x2;

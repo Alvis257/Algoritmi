@@ -32,6 +32,7 @@ namespace KD1
 
             for (int j = 0; j < x.Count(); j++)
             {
+                //y.Add(Math.Sqrt(1 - Math.Pow(x[j],2)));
                 if (x[j] < 1)
                 {
                     y.Add(Math.Round(1 / (Math.Pow(x[j], 2) + 4 * x[j] + 5), 7));
@@ -74,13 +75,14 @@ namespace KD1
             }
 
             double sumOfYwithoutFirstandLast = Math.Round(y.Skip(1).Take(last).Sum(),7);
+            double summ = ((y[first] + y[y.Count() - 1]) / 2 + sumOfYwithoutFirstandLast);
             double I = h * ((y[first] + y[y.Count()-1]) / 2 + sumOfYwithoutFirstandLast);
 
             Console.WriteLine("h={0}", h);
-            Console.WriteLine("Ysum={0}", sumOfYwithoutFirstandLast);
+            Console.WriteLine("Ysum={0}", summ);
             Console.WriteLine();
 
-            Console.WriteLine("Ar kreiso I={0}", Math.Round(I, 5));
+            Console.WriteLine("I={0}", Math.Round(I, 5));
 
         }
     }

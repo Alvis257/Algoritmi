@@ -13,7 +13,7 @@ namespace KD4
             return 2 * x - Math.Pow(Math.E, -x);
         }
 
-        public void BisectionMethod(double a, double b, double tolerance)
+        public void DihotomijasMethod(double a, double b, double tolerance)
         {
             int iterations = 0;
             double c;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD3\\KD3\\KD3.csproj": {}
+    "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Lagrangian interpolation polynomial\\KD3\\KD3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD3\\KD3\\KD3.csproj": {
+    "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Lagrangian interpolation polynomial\\KD3\\KD3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD3\\KD3\\KD3.csproj",
+        "projectUniqueName": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Lagrangian interpolation polynomial\\KD3\\KD3.csproj",
         "projectName": "KD3",
-        "projectPath": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD3\\KD3\\KD3.csproj",
+        "projectPath": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Lagrangian interpolation polynomial\\KD3\\KD3.csproj",
         "packagesPath": "C:\\Users\\pasta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD3\\KD3\\obj\\",
+        "outputPath": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Lagrangian interpolation polynomial\\KD3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

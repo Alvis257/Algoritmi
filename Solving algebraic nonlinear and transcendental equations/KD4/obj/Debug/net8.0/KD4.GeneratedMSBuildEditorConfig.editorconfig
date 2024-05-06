@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = KD4
-build_property.ProjectDir = C:\Users\pasta\Source\Repos\Algoritmi\KD4\KD4\
+build_property.ProjectDir = C:\Users\pasta\source\repos\Algoritmi\Solving algebraic nonlinear and transcendental equations\KD4\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

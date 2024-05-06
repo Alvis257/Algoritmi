@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD2\\KD2\\KD2.csproj": {}
+    "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Newton's interpolations\\KD2\\KD2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD2\\KD2\\KD2.csproj": {
+    "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Newton's interpolations\\KD2\\KD2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD2\\KD2\\KD2.csproj",
+        "projectUniqueName": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Newton's interpolations\\KD2\\KD2.csproj",
         "projectName": "KD2",
-        "projectPath": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD2\\KD2\\KD2.csproj",
+        "projectPath": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Newton's interpolations\\KD2\\KD2.csproj",
         "packagesPath": "C:\\Users\\pasta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pasta\\Documents\\Uzd\\Programindzenierija\\KD2\\KD2\\obj\\",
+        "outputPath": "C:\\Users\\pasta\\Source\\Repos\\Algoritmi\\Newton's interpolations\\KD2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

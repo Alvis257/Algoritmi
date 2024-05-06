@@ -33,7 +33,7 @@ for (int i = 0; i < argumentValues.Length; i++)
     double interpolatedValue = clas.NewtonInterpolation(x, y, n, arguments);
     Console.WriteLine("\nFunkcijas vērtība pie x = " + arguments + ": " + interpolatedValue);
 
-    double actualValue = y[i]; // Actual value corresponding to arguments
+    double actualValue = y[i];
     double error = Math.Abs(actualValue - interpolatedValue);
     Console.WriteLine("Kļūda: " + error);
 }
