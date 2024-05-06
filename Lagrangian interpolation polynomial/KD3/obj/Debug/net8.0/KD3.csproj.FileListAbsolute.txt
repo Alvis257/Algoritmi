@@ -1,0 +1,14 @@
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\bin\Debug\net8.0\KD3.exe
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\bin\Debug\net8.0\KD3.deps.json
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\bin\Debug\net8.0\KD3.runtimeconfig.json
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\bin\Debug\net8.0\KD3.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\bin\Debug\net8.0\KD3.pdb
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\KD3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\KD3.AssemblyInfoInputs.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\KD3.AssemblyInfo.cs
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\KD3.csproj.CoreCompileInputs.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\KD3.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\refint\KD3.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\KD3.pdb
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\KD3.genruntimeconfig.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD3\KD3\obj\Debug\net8.0\ref\KD3.dll

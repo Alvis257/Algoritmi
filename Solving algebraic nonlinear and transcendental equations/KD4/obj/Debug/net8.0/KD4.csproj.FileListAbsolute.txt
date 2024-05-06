@@ -1,0 +1,14 @@
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\bin\Debug\net8.0\KD4.exe
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\bin\Debug\net8.0\KD4.deps.json
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\bin\Debug\net8.0\KD4.runtimeconfig.json
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\bin\Debug\net8.0\KD4.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\bin\Debug\net8.0\KD4.pdb
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\KD4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\KD4.AssemblyInfoInputs.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\KD4.AssemblyInfo.cs
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\KD4.csproj.CoreCompileInputs.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\KD4.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\refint\KD4.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\KD4.pdb
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\KD4.genruntimeconfig.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD4\KD4\obj\Debug\net8.0\ref\KD4.dll

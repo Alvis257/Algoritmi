@@ -1,0 +1,14 @@
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\bin\Debug\net8.0\KD2.exe
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\bin\Debug\net8.0\KD2.deps.json
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\bin\Debug\net8.0\KD2.runtimeconfig.json
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\bin\Debug\net8.0\KD2.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\bin\Debug\net8.0\KD2.pdb
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\KD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\KD2.AssemblyInfoInputs.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\KD2.AssemblyInfo.cs
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\KD2.csproj.CoreCompileInputs.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\KD2.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\refint\KD2.dll
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\KD2.pdb
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\KD2.genruntimeconfig.cache
+C:\Users\pasta\Documents\Uzd\Programindzenierija\KD2\KD2\obj\Debug\net8.0\ref\KD2.dll
